@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../../../../.pub-cache/hosted/pub.dartlang.org/background_fetch-0.5.6/android/libs/tsbackgroundfetch-0.4.5.aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/32da39a28d61358927b1b691087517ea/jetified-tsbackgroundfetch-0.4.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
